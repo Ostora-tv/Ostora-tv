@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ostora-tv
-Programming language and application creation - 👀 I’m interested in ...
-Information Security - 🌱 I’m currently learning ...
- Information security technology systems development - 💞️ I’m looking to collaborate on ...
- via the website - 📫 How to reach me ...
+- 👋 Hi, I’m ALOSTORA
+- 👀 I’m interested in ... Programming language and application creation
+- 🌱 I’m currently learning ... Information Security 
+- 💞️ I’m looking to collaborate on ... Information security technology systems development 
+- 📫 How to reach me ... via the website 
 
 <!---
 Ostora-tv/Ostora-tv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
